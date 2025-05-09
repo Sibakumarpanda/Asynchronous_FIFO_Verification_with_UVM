@@ -1,4 +1,4 @@
-# Asynchronous_FIFO_Verification_with_UVM : Asynchronous FIFO Design and UVM based TB Infra development
+# Asynchronous_FIFO_Verification_with_UVM : RTL Design and UVM based TB Infra development
 
 Background:
 Shorter time-to-market requirements and verification of complex designs have led to the
